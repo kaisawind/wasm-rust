@@ -3,6 +3,9 @@ name = "wasm-rust"
 version = "0.1.0"
 authors = ["kaisawind <wind.kaisa@gmail.com>"]
 edition = "2018"
+description = "wasm rust for exercise"
+repository = "https://github.com/kaisawind/wasm-rust.git"
+license = "MIT"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
